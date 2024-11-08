@@ -1,4 +1,4 @@
-Hi 👋 My name is vaishnavi
+Hi 👋 My name is vaishnavi sunkara
 ==========================
 
 Full-Stack Developer
