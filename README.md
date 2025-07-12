@@ -1,17 +1,23 @@
 Hi 👋 My name is vaishnavi sunkara
 ==========================
 
-Full-Stack Developer
+💻 Aspiring Full-Stack Developer | Python | FastAPI | SQL
 --------------------
+I'm an enthusiastic Full-Stack Developer passionate about building clean, efficient, and scalable web applications. I focus on using Python, FastAPI, SQL, and HTML/CSS/JavaScript to create meaningful and user-friendly solutions. I love solving real-world problems and continuously improving my development skills.
 
-I'm a passionate Full Stack Developer who enjoys transforming ideas into innovative, user-friendly software. With experience in both front-end and back-end development, I'm dedicated to building high-performance, scalable applications that create a positive impact.
+📌 About Me
+🌍 Based in India
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [vaishnavisunkara126@gmail.com](mailto:vaishnavisunkara126@gmail.com)
-* 🚀  I'm currently working on [Netflix-clone](http://netflix-clone-1-os6d.onrender.com/)
-* 🧠  I'm learning I’m enhancing my skills in ReactJS, Node.js, and Python to build dynamic full-stack applications. Focused on mastering frontend development and backend solutions using MongoDB, JavaScript
-* 🤝  I'm open to collaborating on Excited to collaborate on projects involving full-stack development with ReactJS, Node.js, and Python!
-* ⚡  I’m passionate about continuous learning and always exploring new technologies. I enjoy solving coding challenges, contributing to open-source projects, and collaborating on innovative solutions.
+✉️ Reach me at: vaishnavisunkara126@gmail.com
+
+🚀 Currently working on: An E-commerce web application using FastAPI & PostgreSQL
+
+🧠 Learning: Backend development with Python (FastAPI), SQL, and core frontend skills (HTML, CSS, JavaScript)
+
+🤝 Open to collaborating on:
+Projects involving API development, backend systems, or database-driven web apps
+
+⚡ Passionate about continuous learning and exploring technologies like Docker, Git, and deployment tools
 
 ### Skills
 
